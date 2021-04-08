@@ -1,1 +1,1 @@
-# Gettin started with Material-ui
+# Getting started with Material-ui
